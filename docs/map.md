@@ -1,4 +1,4 @@
 ---
 layout: redirect
-tourl: https://github.com/webbukkit/dynmap/wiki
+tourl: https://185.103.101.144:25650
 ---
